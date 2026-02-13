@@ -3,7 +3,7 @@ import rich
 
 
 def say_hello(name):
-    """Print a greeting.
+    """Print a greeting!.
 
     Args:
         name: The name to print in the greeting.
